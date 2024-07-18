@@ -6,3 +6,6 @@ EPOCHS: 1
 CLASSES: 2
 WEIGHTS: imagenet
 LEARNING_RATE: 0.01
+# MLFLOW_TRACKING_URI=https://dagshub.com/bhaveshk22/Kidney_disease_classification.mlflow
+# MLFLOW_TRACKING_USERNAME=bhaveshk22
+# MLFLOW_TRACKING_PASSWORD=9b876976720ed89fe803c5e807f3867b32a5967e
