@@ -166,3 +166,4 @@ mlruns/
 .dvcignore
 dvc.lock
 .dvc/
+model/
