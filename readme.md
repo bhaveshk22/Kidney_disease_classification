@@ -8,6 +8,7 @@ This project demonstrates the use of transfer learning with the VGG16 model for 
 
 
 
+![kidneyDisease](https://github.com/user-attachments/assets/d1b41df2-eb0f-4bf0-a09b-3dc2458d8174)
 
 
 ## Features
@@ -108,3 +109,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [DVC](https://dvc.org/) for data version control.
 - [MLflow](https://mlflow.org/) for experiment tracking.
 - The open-source community for various helpful libraries and tools.
+
+## Authors
+[@Bhavesh](https://github.com/bhaveshk22)
